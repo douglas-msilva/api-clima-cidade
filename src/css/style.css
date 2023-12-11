@@ -12,7 +12,7 @@ body{
 }
 
 .container{
-    background-image: url(../images/background.jpg);
+    background-image: url(/src/images/background.jpg);
     background-size: cover;
     background-color: #1f2949;
     color: #fff;
